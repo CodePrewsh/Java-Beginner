@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76b14c8-7eaf-4e30-b76c-ce4460170032" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter10/exercise2/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10/exercise2/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/exercise11_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/exercise3/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/exercise3/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/exercise4/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/Shirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/ShoppingCart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/ex10_2_exercise/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter10/ex10_2_exercise/ShoppingCart.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +48,7 @@
     "Application.Order.executor": "Run",
     "Application.ShoppingCart.executor": "Run",
     "Application.exercise1.executor": "Run",
+    "Application.exercise11_2.executor": "Run",
     "Application.exercise1TestClass.executor": "Run",
     "Application.sayHello.executor": "Run",
     "Application.shoppingCart.executor": "Run",
@@ -61,6 +66,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ShoppingCart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ShoppingCart" />
+      <module name="Java Work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShoppingCart" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,7 +103,7 @@
       <workItem from="1726256322714" duration="1647000" />
       <workItem from="1726316896296" duration="1255000" />
       <workItem from="1726352554644" duration="1010000" />
-      <workItem from="1726390720409" duration="5638000" />
+      <workItem from="1726390720409" duration="10894000" />
     </task>
     <servers />
   </component>
