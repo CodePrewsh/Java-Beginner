@@ -1,6 +1,7 @@
-package chapter10;
+package chapter10.exercise2;
 
-public class exercise2Order {
+public class Order {
+    static final char CORP = 'C';
     static final char PRIVATE = 'P';
     static final char NONPROFIT = 'N';
     String name;
@@ -9,7 +10,7 @@ public class exercise2Order {
     double discount;
     char custType;
 
-    public exercise2Order(String name, double total, String state, char custType) {
+    public Order(String name, double total, String state, char custType) {
         this.name = name;
         this.total = total;
         this.stateCode = state;
@@ -17,7 +18,7 @@ public class exercise2Order {
         calcDiscount();
     }
 
-    public String getDiscount(){
+    public String getDiscount() {
         return Double.toString(discount) + "%";
     }
 
@@ -28,6 +29,8 @@ public class exercise2Order {
             discount = 5.0;
         } else if (custType == NONPROFIT) {
             discount = 10.0;
+        } else if (custType == CORP) {
+            discount = 8.0;
         }
 
         if (total > 1000) {
