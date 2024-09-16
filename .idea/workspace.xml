@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76b14c8-7eaf-4e30-b76c-ce4460170032" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/chapter5/exercise2/shoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/exercise2/shoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/exercise2/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/exercise3/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/exrcise1/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/exrcise2/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/exercise1/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/exercise1/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/exercise2/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/exercise2/Item.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +53,10 @@
     "Application.chapter12.excerise2.ShoppingCart.executor": "Run",
     "Application.chapter12.exercise3.ShoppingCart.executor": "Run",
     "Application.chapter12.exercise4.ShoppingCart.executor": "Run",
+    "Application.chapter6.exercise2.ShoppingCart.executor": "Run",
+    "Application.chapter7.ShoppingCart.executor": "Run",
+    "Application.chapter7.exercise3.ShoppingCart.executor": "Run",
+    "Application.chapter7.exrcise2.ShoppingCart.executor": "Run",
     "Application.exercise1.executor": "Run",
     "Application.exercise11_2.executor": "Run",
     "Application.exercise1TestClass.executor": "Run",
@@ -119,7 +130,7 @@
       <workItem from="1726352554644" duration="1010000" />
       <workItem from="1726390720409" duration="13088000" />
       <workItem from="1726426044503" duration="1271000" />
-      <workItem from="1726482451146" duration="3513000" />
+      <workItem from="1726482451146" duration="4757000" />
     </task>
     <servers />
   </component>
