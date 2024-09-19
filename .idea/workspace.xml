@@ -10,10 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76b14c8-7eaf-4e30-b76c-ce4460170032" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter15/chapter15.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter11/exercise3/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11/exercise3/Item.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Java Beginner Bootcamp/Java Work/src",
+    "last_opened_file_path": "C:/Java Beginner Bootcamp/JavaDummies",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -145,7 +142,7 @@
       <workItem from="1726593263389" duration="598000" />
       <workItem from="1726632358277" duration="719000" />
       <workItem from="1726653633390" duration="4669000" />
-      <workItem from="1726761392855" duration="1380000" />
+      <workItem from="1726761392855" duration="2138000" />
     </task>
     <servers />
   </component>
