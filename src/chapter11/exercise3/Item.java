@@ -20,7 +20,7 @@ public class Item {
         // Negative random numbers will result in isBackOrdered = true
         double num = Math.random() * 1000;
         if ((int)num % 2 == 1 ){
-            this.isBackOrdered = true;
+            this.isBackOrdered = false;
             System.out.println(getDesc() +" is back ordered.");
         }
         else this.isBackOrdered();

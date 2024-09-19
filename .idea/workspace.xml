@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="chapter15:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76b14c8-7eaf-4e30-b76c-ce4460170032" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter15/chapter15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter8/exercise2/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8/exercise2/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter8/exercise2/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8/exercise2/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter11/exercise3/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11/exercise3/Item.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +44,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.League.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Order.executor": "Run",
     "Application.ShoppingCart.executor": "Debug",
     "Application.chapter10.exercise3.ShoppingCart.executor": "Run",
     "Application.chapter11.ShoppingCart.executor": "Run",
     "Application.chapter11.exercise1.ShoppingCart.executor": "Run",
+    "Application.chapter11.exercise3.ShoppingCart.executor": "Run",
+    "Application.chapter11.exercise4.ShoppingCart.executor": "Run",
     "Application.chapter12.excerise1.ShoppingCart.executor": "Run",
     "Application.chapter12.excerise2.ShoppingCart.executor": "Run",
     "Application.chapter12.exercise3.ShoppingCart.executor": "Run",
@@ -54,6 +63,7 @@
     "Application.chapter7.exrcise2.ShoppingCart.executor": "Run",
     "Application.chapter8.exercise1.ShoppingCart.executor": "Run",
     "Application.chapter8.exercise2.ShoppingCart.executor": "Run",
+    "Application.chapter9.exercise2.ShoppingCart.executor": "Run",
     "Application.exercise1.executor": "Run",
     "Application.exercise11_2.executor": "Run",
     "Application.exercise1TestClass.executor": "Run",
@@ -62,14 +72,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Java Beginner Bootcamp/Java Work",
+    "last_opened_file_path": "C:/Java Beginner Bootcamp/Java Work/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Java Beginner Bootcamp/Java Work/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Java Beginner Bootcamp/Java Work/src/chapter15.1/src/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -127,7 +141,11 @@
       <workItem from="1726352554644" duration="1010000" />
       <workItem from="1726390720409" duration="13088000" />
       <workItem from="1726426044503" duration="1271000" />
-      <workItem from="1726482451146" duration="6457000" />
+      <workItem from="1726482451146" duration="8905000" />
+      <workItem from="1726593263389" duration="598000" />
+      <workItem from="1726632358277" duration="719000" />
+      <workItem from="1726653633390" duration="4669000" />
+      <workItem from="1726761392855" duration="1380000" />
     </task>
     <servers />
   </component>
@@ -143,14 +161,9 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter10/exercise3/ShoppingCart.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter10/exercise3/ShoppingCart.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/chapter15/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
